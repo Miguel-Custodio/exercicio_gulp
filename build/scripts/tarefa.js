@@ -1,0 +1,1 @@
+function subtrair(r,o){return r-o}console.log(subtrair(100,20)),module.exports=subtrair;
